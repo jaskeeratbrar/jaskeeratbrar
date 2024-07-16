@@ -6,7 +6,7 @@
 
 Master of Science in Business Analytics graduate from UC Davis with 3 years of engineering experience specializing in Software Engineering, Big Data & Automation.
 
-- 🌱 I’m currently learning about **Machine Learning, AI && LLM's**
+- 🌱 I’m currently learning about **Machine Learning, AI & LLM's**
 - 💬 Ask me about **JavaScript, React, and Python**
 - 📫 How to reach me: [jbrar1938@gmail.com](mailto:jbrar1938@gmail.com)
 - ⚡ Fun fact: I love exploring national parks. I recently hiked the famous trail - Angel's Landing at Zion National Park, Utah.
@@ -36,7 +36,7 @@ Master of Science in Business Analytics graduate from UC Davis with 3 years of e
   - *Valid from May 2024 to May 2027*
   
 - **AWS Certified Solutions Architect**
-  ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS-Solutions%20Architect20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   - *Valid from June 2024 to June 2027*
 
 ## Connect with Me
