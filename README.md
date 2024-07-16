@@ -36,7 +36,7 @@ Master of Science in Business Analytics graduate from UC Davis with 3 years of e
   - *Valid from May 2024 to May 2027*
   
 - **AWS Certified Solutions Architect**
-  ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   - *Valid from June 2024 to June 2027*
 
 ## Connect with Me
