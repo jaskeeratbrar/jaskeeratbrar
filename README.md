@@ -4,7 +4,7 @@
 
 ## About Me
 
-Master of Science in Business Analytics graduate from UC Davis with 3 years of engineering experience specializing in Software Engineering, Big Data & Automation.
+Master of Science in Business Analytics graduate from UC Davis with engineering experience specializing in Software Engineering, Big Data & Automation.
 
 - 🌱 I’m currently learning about **Machine Learning, AI & LLM's**
 - 💬 Ask me about **JavaScript, React, and Python**
